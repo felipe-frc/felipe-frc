@@ -3,7 +3,7 @@
 **Estudante de Ciência da Computação | Desenvolvedor em Formação**
 
 Me chamo Marcos Felipe França, tenho 25 anos e sou estudante de **Ciência da Computação na UNITRI**.  
-Possuo base em **C#**, **HTML**, **CSS** e **JavaScript**, e atualmente estou aprofundando meus conhecimentos em **fundamentos da programação**, **orientação a objetos** e **estruturas de dados**, além de iniciar meus estudos em **Python**.
+Possuo base em **C#**, **HTML**, **CSS** e **JavaScript**, e atualmente estou aprofundando meus conhecimentos em **fundamentos da programação** e **orientação a objetos**.
 
 Meu foco é evoluir de forma consistente, construindo projetos práticos e bem estruturados, com o objetivo de conquistar minha **primeira oportunidade de estágio na área de Tecnologia da Informação**.
 
@@ -25,9 +25,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-<img align="left" alt="Python" title="Python (em estudo)" width="30px" style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
@@ -42,7 +39,7 @@ Neste GitHub você encontrará:
 
 - 📌 Projetos acadêmicos desenvolvidos durante a graduação  
 - 📌 Exercícios práticos para reforço de lógica e estruturas de dados  
-- 📌 Aplicações simples em **C#** e **Python**  
+- 📌 Aplicações simples em **C#**   
 - 📌 Projetos web básicos utilizando **HTML, CSS e JavaScript**  
 - 📌 Código organizado, comentado e em constante evolução  
 
