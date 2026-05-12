@@ -67,13 +67,13 @@ Meu foco é evoluir de forma consistente, construindo projetos práticos e bem e
 
 ## 📈 Atividade no GitHub
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/felipe-frc">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipe-frc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipe-frc&theme=tokyonight" alt="Profile Details" />
 </p>
 
