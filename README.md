@@ -77,5 +77,5 @@ Meu foco é evoluir de forma consistente, construindo projetos práticos e bem e
 
 ---
 
-📍 Uberlândia, MG
+📍 Uberlândia, MG  
 🤝 Aberto a oportunidades de estágio — fique à vontade para entrar em contato
