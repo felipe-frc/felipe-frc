@@ -2,7 +2,7 @@
 
 **Estudante de Ciência da Computação | Desenvolvedor em Formação**
 
-Me chamo Marcos Felipe França, tenho 26 anos e estudo **Ciência da Computação na UNITRI** (Uberlândia, MG).
+Me chamo Marcos Felipe França, tenho 26 anos e estudo **Ciência da Computação na Uniube** (Uberlândia, MG).
 Possuo base sólida em **C#**, **HTML**, **CSS** e **JavaScript**, e estou aprofundando meus conhecimentos em **desenvolvimento web moderno (React, TypeScript, Tailwind CSS)** e **back-end com .NET** — com projetos reais em produção na nuvem **Azure**.
 
 Meu foco é evoluir de forma consistente, construindo projetos práticos e bem estruturados, com o objetivo de conquistar minha **primeira oportunidade de estágio em TI**.
