@@ -3,7 +3,7 @@
 **Estudante de Ciência da Computação | Desenvolvedor em Formação**
 
 Me chamo Marcos Felipe França, tenho 26 anos e estudo **Ciência da Computação na Uniube** (Uberlândia, MG).
-Possuo base sólida em **C#**, **HTML**, **CSS** e **JavaScript**, e estou aprofundando meus conhecimentos em **desenvolvimento web moderno (React, TypeScript, Tailwind CSS)** e **back-end com .NET** — com projetos reais em produção na nuvem **Azure**.
+Possuo base sólida em **C#**, **HTML**, **CSS** e **JavaScript**, e estou aprofundando meus conhecimentos em **desenvolvimento web moderno (React, TypeScript, Tailwind CSS)** e **back-end com .NET** — com projetos reais publicados em produção utilizando **Azure App Service**, **Azure Static Web Apps**, **Azure SQL** e **Vercel**.
 
 Meu foco é evoluir de forma consistente, construindo projetos práticos e bem estruturados, com o objetivo de conquistar minha **primeira oportunidade de estágio em TI**.
 
@@ -58,6 +58,9 @@ Meu foco é evoluir de forma consistente, construindo projetos práticos e bem e
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure App Service](https://img.shields.io/badge/Azure%20App%20Service-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Static Web Apps](https://img.shields.io/badge/Azure%20Static%20Web%20Apps-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
