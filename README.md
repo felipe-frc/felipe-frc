@@ -11,7 +11,7 @@ Meu foco é evoluir de forma consistente, construindo projetos práticos e bem e
 
 ## 🌐 Onde me encontrar
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/felipe-frc">
     <img src="https://img.shields.io/badge/GitHub-felipe--frc-181717?style=for-the-badge&logo=github" />
   </a>
